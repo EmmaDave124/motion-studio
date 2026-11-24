@@ -29,6 +29,7 @@ Connect the `motion-studio` folder to Claude (desktop app: **+** next to the mes
 then **Add folder**), or run `claude` inside it. Then describe the video in your own words.
 
 ## Guides
+- `docs/Quick Start.pdf`: one page, for complete beginners. Start here
 - `docs/Setup Guide.pdf`: every step, both systems, and every problem we hit
 - `docs/The Method.pdf`: how videos get made, for any style
 
