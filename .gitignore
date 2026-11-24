@@ -1,0 +1,12 @@
+node_modules/
+.venv/
+__pycache__/
+renders/
+build/
+out/
+*.blend
+*.blend1
+herk-edit-kit/
+films/*
+!films/.keep
+.DS_Store
